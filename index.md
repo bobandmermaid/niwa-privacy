@@ -25,7 +25,10 @@ Since all data resides on your physical iPhone:
 * You can delete individual plants, photos, or logs at any time directly in the App.
 * Deleting the App from your device permanently removes all stored data.
 
-### 5. Contact
+### 5. Disclaimer of Care Advice
+Niwa is designed as an informational and educational tool to assist with home plant care routines. Care intervals, drought thresholds, and fertilizer dosages are calculated estimates based on botanical models and user-provided parameters. Environmental conditions vary between individual homes. The user assumes full responsibility for evaluating soil moisture and making care decisions.
+
+### 6. Contact
 If you have questions about this Privacy Policy or need support, contact the developer:
 * **Email:** bobandmermaid@rocketmail.com
 
